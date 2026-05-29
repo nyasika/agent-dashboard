@@ -1,0 +1,5 @@
+name: "Deutsch Üben"
+description: "Napi B1-B2 gyakorlás: szintfelmérés, grammatika, szókincs, spaced repetition"
+icon: "🇩🇪"
+url: "https://nyasikagerman.streamlit.app"
+tags: ["nyelv", "tanulás", "B1-B2"]
