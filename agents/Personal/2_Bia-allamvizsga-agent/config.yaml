@@ -2,4 +2,5 @@ name: "Bia Államvizsga Segéd"
 description: "Biológia szóbeli államvizsga felkészítő — 30 tétel, vizsgaszimulátor, confidence tracking"
 icon: "🎓"
 model: "claude-sonnet-4-6"
+url: "https://nyasikaallamvizsgaapp.streamlit.app"
 tags: ["tanulás", "vizsga", "biológia"]
