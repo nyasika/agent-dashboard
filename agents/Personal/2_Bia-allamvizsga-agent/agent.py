@@ -62,6 +62,32 @@ def _extract_json(text: str) -> dict | list:
     return json.loads(text)
 
 
+def _normalize_questions(raw) -> list[dict]:
+    """Bármilyen Claude kimenetből garantáltan list[dict] lesz 'kerdes' kulccsal."""
+    if isinstance(raw, dict):
+        for v in raw.values():
+            if isinstance(v, list):
+                raw = v
+                break
+        else:
+            return []
+    if not isinstance(raw, list):
+        return []
+    result = []
+    for i, item in enumerate(raw, 1):
+        if isinstance(item, str):
+            result.append({"id": i, "kerdes": item, "segedfogalmak": []})
+        elif isinstance(item, dict):
+            kerdes = (item.get("kerdes") or item.get("kérdés") or
+                      item.get("question") or item.get("text") or str(item))
+            result.append({
+                "id": item.get("id", i),
+                "kerdes": kerdes,
+                "segedfogalmak": item.get("segedfogalmak") or item.get("hints") or [],
+            })
+    return result
+
+
 def _tetel_context(tetel: dict) -> str:
     """Összeállítja a tétel szövegét + képleírásokat egy kontextusba."""
     parts = [f"# {tetel['cim']}\n", tetel["szoveg"][:8000]]
@@ -119,12 +145,7 @@ Adj vissza CSAK ezt a JSON struktúrát:
         messages=[{"role": "user", "content": prompt}],
     )
     result = _extract_json(resp.content[0].text)
-    if isinstance(result, dict):
-        for v in result.values():
-            if isinstance(v, list):
-                return v
-        return []
-    return result
+    return _normalize_questions(result)
 
 
 # ------------------------------------------------------------------ #
