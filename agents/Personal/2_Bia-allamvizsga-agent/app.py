@@ -249,7 +249,7 @@ def _start_session(session_type: str):
                 increment_practice_count(t["id"])
             except Exception:
                 pass
-        go("tetel")
+        go("attekintes")
         return
 
     with st.spinner("Kérdések generálása…"):
@@ -459,6 +459,63 @@ def page_stats():
 
 
 # ------------------------------------------------------------------ #
+# Áttekintés — dedikált tanulási nézet                                 #
+# ------------------------------------------------------------------ #
+
+def page_attekintes():
+    t = st.session_state.get("tetel")
+    if not t:
+        go("home")
+        return
+
+    st.title(f"📖 Tétel {t['id']}: {t['cim']}")
+    st.markdown("---")
+
+    # Összefoglaló
+    if t.get("osszefoglalo"):
+        st.markdown("## Összefoglaló")
+        st.write(t["osszefoglalo"])
+
+    # Kulcsfogalmak
+    if t.get("kulcsfogalmak"):
+        st.markdown("**Kulcsfogalmak:** " +
+                    " · ".join(f"`{k}`" for k in t["kulcsfogalmak"]))
+
+    st.markdown("---")
+
+    # Képek — mind látható, expander nélkül
+    kepek = [k for k in t.get("kepek", []) if k.get("fajl")]
+    if kepek:
+        st.markdown("## Ábrák")
+        cols_per_row = 2
+        for i in range(0, len(kepek), cols_per_row):
+            row = kepek[i:i + cols_per_row]
+            cols = st.columns(len(row))
+            for col, kep in zip(cols, row):
+                img_path = Path(__file__).parent / kep["fajl"]
+                if img_path.exists():
+                    with col:
+                        st.image(str(img_path),
+                                 caption=f"{kep['sorszam']}. ábra",
+                                 use_container_width=True)
+        st.markdown("---")
+
+    # Teljes szöveg
+    st.markdown("## Teljes szöveg")
+    st.text(t.get("szoveg", ""))
+
+    st.markdown("---")
+    c1, c2 = st.columns(2)
+    with c1:
+        if st.button("← Vissza a tételhez", use_container_width=True):
+            go("tetel")
+    with c2:
+        if st.button("🎤 Vizsgaszimulátor indítása", type="primary",
+                     use_container_width=True):
+            _start_session("vizsgaszimulator")
+
+
+# ------------------------------------------------------------------ #
 # Router                                                               #
 # ------------------------------------------------------------------ #
 
@@ -466,7 +523,9 @@ def main():
     render_sidebar()
     page = st.session_state.get("page", "home")
 
-    if page == "tetel" and "tetel" in st.session_state:
+    if page == "attekintes" and "tetel" in st.session_state:
+        page_attekintes()
+    elif page == "tetel" and "tetel" in st.session_state:
         page_tetel()
     elif page == "session":
         page_session()
