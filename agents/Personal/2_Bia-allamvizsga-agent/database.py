@@ -3,10 +3,20 @@
 import os
 from datetime import date, datetime
 
-from dotenv import load_dotenv
 from supabase import create_client, Client
 
-load_dotenv()
+
+def _get_supabase_creds() -> tuple[str, str]:
+    url = os.environ.get("SUPABASE_URL")
+    key = os.environ.get("SUPABASE_KEY")
+    if not url or not key:
+        try:
+            import streamlit as st
+            url = url or st.secrets.get("SUPABASE_URL")
+            key = key or st.secrets.get("SUPABASE_KEY")
+        except Exception:
+            pass
+    return url, key
 
 # ------------------------------------------------------------------ #
 # Supabase séma (egyszer kell futtatni a Supabase SQL editorban):
@@ -44,8 +54,9 @@ _client: Client | None = None
 def _db() -> Client:
     global _client
     if _client is None:
-        url = os.environ["SUPABASE_URL"]
-        key = os.environ["SUPABASE_KEY"]
+        url, key = _get_supabase_creds()
+        if not url or not key:
+            raise RuntimeError("SUPABASE_URL vagy SUPABASE_KEY hiányzik")
         _client = create_client(url, key)
     return _client
 

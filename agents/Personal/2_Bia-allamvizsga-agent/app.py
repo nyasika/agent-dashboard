@@ -213,8 +213,7 @@ def page_tetel():
 
     # Teljes szöveg
     with st.expander("📄 Teljes szöveg"):
-        st.text(t.get("szoveg", "")[:5000] +
-                ("\n\n[…szöveg csonkítva…]" if len(t.get("szoveg", "")) > 5000 else ""))
+        st.text(t.get("szoveg", ""))
 
     st.markdown("---")
     st.subheader("Mód választása")

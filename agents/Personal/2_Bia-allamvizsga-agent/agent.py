@@ -4,11 +4,25 @@ Prompt caching a stable system prompt-on.
 """
 
 import json
+import os
 import re
 
 import anthropic
 
-client = anthropic.Anthropic()
+
+def _get_api_key() -> str | None:
+    key = os.environ.get("ANTHROPIC_API_KEY")
+    if not key:
+        try:
+            import streamlit as st
+            key = st.secrets.get("ANTHROPIC_API_KEY")
+        except Exception:
+            pass
+    return key
+
+
+def _client() -> anthropic.Anthropic:
+    return anthropic.Anthropic(api_key=_get_api_key())
 
 _SYSTEM = """Te egy szigorú, de segítőkész biológia vizsgáztató vagy a Pécsi Egyetemen.
 A hallgató szóbeli államvizsgára készül.
@@ -98,7 +112,7 @@ Adj vissza CSAK ezt a JSON struktúrát:
   }}
 ]"""
 
-    resp = client.messages.create(
+    resp = _client().messages.create(
         model="claude-sonnet-4-6",
         max_tokens=2000,
         system=_system_cached(),
@@ -138,7 +152,7 @@ Adj vissza CSAK ezt a JSON struktúrát:
 
 Score 0-100: 0=semmit nem tudott, 50=alapokat tudta, 80=jó, 100=teljeskörű."""
 
-    resp = client.messages.create(
+    resp = _client().messages.create(
         model="claude-sonnet-4-6",
         max_tokens=1500,
         system=_system_cached(),
@@ -181,7 +195,7 @@ Adj vissza CSAK ezt a JSON struktúrát:
   "dicseret": "Egy mondatos pozitív visszajelzés."
 }}"""
 
-    resp = client.messages.create(
+    resp = _client().messages.create(
         model="claude-sonnet-4-6",
         max_tokens=800,
         system=_system_cached(),
