@@ -119,6 +119,7 @@ Adj vissza CSAK a JSON tömböt, semmi mást."""
 
     with client.messages.stream(
         model="claude-opus-4-7",
+        metadata={"user_id": "german-language"},
         max_tokens=4000,
         thinking={"type": "adaptive"},
         system=_system_cached(),
@@ -168,6 +169,7 @@ Adj vissza CSAK ezt a JSON struktúrát:
 
     with client.messages.stream(
         model="claude-opus-4-7",
+        metadata={"user_id": "german-language"},
         max_tokens=2000,
         thinking={"type": "adaptive"},
         system=_system_cached(),
@@ -263,6 +265,7 @@ Adj vissza CSAK ezt a JSON struktúrát:
 
     with client.messages.stream(
         model="claude-opus-4-7",
+        metadata={"user_id": "german-language"},
         max_tokens=4000,
         system=_system_cached(),
         messages=[{"role": "user", "content": prompt}],
@@ -330,6 +333,7 @@ A new_vocabulary az exercises-ben előforduló hasznos új szavakat listázza (m
 
     with client.messages.stream(
         model="claude-opus-4-7",
+        metadata={"user_id": "german-language"},
         max_tokens=3000,
         thinking={"type": "adaptive"},
         system=_system_cached(),
@@ -366,6 +370,7 @@ Ne használj JSON-t, csak szöveget írj."""
 
     with client.messages.stream(
         model="claude-opus-4-7",
+        metadata={"user_id": "german-language"},
         max_tokens=500,
         system=_system_cached(),
         messages=[{"role": "user", "content": prompt}],

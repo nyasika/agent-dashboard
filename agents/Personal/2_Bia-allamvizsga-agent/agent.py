@@ -140,6 +140,7 @@ Adj vissza CSAK ezt a JSON struktúrát:
 
     resp = _client().messages.create(
         model="claude-sonnet-4-6",
+        metadata={"user_id": "bia-allamvizsga"},
         max_tokens=2000,
         system=_system_cached(),
         messages=[{"role": "user", "content": prompt}],
@@ -181,6 +182,7 @@ Score 0-100: 0=semmit nem tudott, 50=alapokat tudta, 80=jó, 100=teljeskörű.""
 
     resp = _client().messages.create(
         model="claude-sonnet-4-6",
+        metadata={"user_id": "bia-allamvizsga"},
         max_tokens=1500,
         system=_system_cached(),
         messages=[{"role": "user", "content": prompt}],
@@ -224,6 +226,7 @@ Adj vissza CSAK ezt a JSON struktúrát:
 
     resp = _client().messages.create(
         model="claude-sonnet-4-6",
+        metadata={"user_id": "bia-allamvizsga"},
         max_tokens=800,
         system=_system_cached(),
         messages=[{"role": "user", "content": prompt}],
