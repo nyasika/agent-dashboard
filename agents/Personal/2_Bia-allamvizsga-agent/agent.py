@@ -118,7 +118,13 @@ Adj vissza CSAK ezt a JSON struktúrát:
         system=_system_cached(),
         messages=[{"role": "user", "content": prompt}],
     )
-    return _extract_json(resp.content[0].text)
+    result = _extract_json(resp.content[0].text)
+    if isinstance(result, dict):
+        for v in result.values():
+            if isinstance(v, list):
+                return v
+        return []
+    return result
 
 
 # ------------------------------------------------------------------ #
