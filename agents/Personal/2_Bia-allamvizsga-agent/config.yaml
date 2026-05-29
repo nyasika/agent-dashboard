@@ -1,10 +1,5 @@
 name: "Bia Államvizsga Segéd"
-description: "Felkészülést segítő agent az államvizsgára"
+description: "Biológia szóbeli államvizsga felkészítő — 30 tétel, vizsgaszimulátor, confidence tracking"
 icon: "🎓"
 model: "claude-sonnet-4-6"
-max_tokens: 4096
-tags: ["tanulás", "vizsga"]
-system_prompt: |
-  Te egy tanulmányi segéd vagy, aki Biának segít az államvizsga felkészülésben.
-  Magyarázd el a témákat érthetően, tegyél fel kérdéseket a megértés ellenőrzésére,
-  és segíts a tananyag rendszerezésében. Légy türelmes és bátorító.
+tags: ["tanulás", "vizsga", "biológia"]

@@ -1,0 +1,211 @@
+{
+  "id": 30,
+  "cim": "Az élőlények természetes környezete és válaszreakcióik",
+  "szoveg": "30. Az élőlények természetes környezete és válaszreakcióik\nAz ismeretanyag fontosabb címszavai: Abiotikus környezeti tényezők és a növényi válaszok. A fény (spektrális hatások, fényválasz görbék, VAZ-ciklus), a víz (vízforgalmi paraméterek és kiszáradás, szukkulencia-index, kiszáradáskerülők funkcionális típusai, homoiohidrikus és poikilohidrikus növények), a hőmérséklet (makro- és mikroklíma hatások, energiaegyensúly, növekedési dinamikák), a tápanyagok (növényi hamu, tápanyag-hozam görbe, nitrogén anyagcsere a funkciós csoportokban és vegetációtípusokban, tápanyaghasznosítás, tápanyagveszteség), a levegő (emelt szén-dioxid klímára adott növényi válaszok).\nI. Abiotikus környezeti tényezők és a növényi válaszok\nA növényi válaszok esetén beszélhetünk egyedi (ontogenetikai) és evolúciós szintű válaszreakciókról.\nEgyedi: a növény túlélését segíti elő.\nEvolúciós szintű: a faj fennmaradását biztosítja.\nMindkét szinten a növényi adaptációs mechanizmusok a következők:\nHatás eltűrése: pl. erős stressz hatására csökkenti az aktivitását.\nHatás kikerülése: pl. nyugvó állapotba kerülés (izolálódás).\nHatás kijavítása: károsodások mérséklése, túlélés biztosítása.\nAdaptáció: generációkon keresztül érvényesülő alkalmazkodás, tartós ellenállóképesség kialakulását biztosítja (evolúciós szint). Akklimatizáció: az egyed életében érvényesülő alkalmazkodás, a túlélést biztosítja (egyedi szint). Az akklimatizáció mértékét meghatározó tulajdonság a fenotípusos plaszticitás. Minden növény az adott hatásra egy bizonyos tartományos belül tud reagálni → a fenotípusos plaszticitás lehet szűk vagy széles (a szélesebb az előnyösebb, mert nagyobb mértékű hatás esetén sem lépi át a határait, így nagyobb eséllyel él túl.)\nStressz: a környezetben található elemek (stresszorok) hatására a fiziológiai működés reverzibilis vagy irreverzibilis (tartós) megváltozása, amely eltér a normálistól. Kétféle stressz-válasz:\nAspecifikus stressz-reakció: stresszor típusától független válasz, minden növényben és minden stresszor hatására azonos módon zajlik le.\nSpecifikus: a stresszor típusától függ, a különböző növényekben a tényezőtől függően egyedi módon zajlik le.\nA növényi stressz: a növénnyel szemben fellépő fokozott környezeti igénybevétel a működést kezdetben destabilizálja (nő vagy csökken az eredeti állapothoz képest), majd a működés normalizálódásán át egy fokozott ellenállóság kialakulásához vezet(het). A tűréshatár átlépésekor: tartós károsodás vagy halál.\nA növény működése (növekedés, túlélés, termés) és egy környezeti tényező közötti összefüggést egy optimum görbe írja le. Az optimálisnál alacsonyabb vagy magasabb működés a külső hatások eredménye.\nA stresszreakció összetett folyamat, jellegzetes eseménysor, tünetegyüttes (szindróma).\nStresszmentes (normál) állapot: a fiziológiás reakciók standard szinten. → érkezik a stressz → stresszreakció → szakaszai:\nVészreakció: stresszválasz, a fiziológiás reakciók szintje csökken (a rezisztenciaminimumig megy, ez alá kerülve károsodik a növény)\nEllenállás: ha nem megy a rezisztenciaminimum alá a fiziológiás reakciók szintje, beindul a helyreállás (standard szint eléréséig tart) → edződés (standard szint elérése után) → ha eléri a fiziológiás reakció felső értékét (rezisztenciamaximum), stabilizálódik a működés\nKimerülés: a fiziológiás reakciók megint csökkennek\nRegeneráció: a stresszorhatás megszűnése után a működés beáll egy új szintre (az eredeti standard szint alá, fölé, nagyon alá vagy a rezisztenciaminimum alá, utóbbi esetén pusztulás/károsodás) – az új standard szint nem egyezik meg a régivel!\nAbiotikus faktorok:\nSugárzás (pl. UV)\nHőmérséklet (hőstressz, hideg-stressz)\nVíz (kiszáradás, elárasztás)\nGázok (pl. O2-hiány)\nKülönböző anyagok (pl. nehéz-fémek, sófelhalmozódás, savas vagy lúgos környezet)\nMechanikus hatások (pl. szél, talajfolyás, jég-, hóborítás)\nBiotikus faktorok:\nNövények (zsúfoltság, parazita növények, allelopátia)\nMikroorganizmusok (vírusok, bak-tériumok, gombák)\nÁllatok (legelés, taposás)\nAntropogén eredetű (pl. szennye-zés, tűz, vegyszerek)\nA növény a környezetből érkező jeleket érzékeli (szignálpercepció), majd bekövetkezik a válaszreakció (szignáltranszdukció), amely 2 szinten valósulhat meg:\ngénexpresszió megváltozása\nanyagcsere megváltozása\n(a 2 egymástól nem elválasztható)\nII. A fény (spektrális hatások, fényválasz görbék, VAZ-ciklus)\n1. Fény:\nA fény hullámtulajdonságokkal is rendelkező anyag, mely különböző hullámhosszúságú komponensekből áll (színek). Energiája a hullámhosszúsággal fordítottan arányos (E ~ 1/).\n400-700 nm: látható fény (PAR – fotoszintetikusan aktív radiáció, színek) → fényelnyelő molekulák elektronjait gerjeszti.\n<400 nm: UV-sugárzás → destruktív (károsít, kötést felbontó hatás).\n>700 nm: IR, NIR-LIR → nem effektív (nincs hatása).\n2. A Napból érkező sugárzás megoszlása a Földön (globális sugárzásspektrum):\nA = közvetlen sugárzás (51%), B = közvetett (szórt) sugárzás (23%), C = légkörből visszaverődő sugárzás (26+5%), D = talajról visszaverődő sugárzás (10%), E = hosszúhullámú kisugárzás (4%), F = evaporáció (14%), G = konvekció (22%), H = talajban elnyelődő sugárzás (1%)\nA sugárzás egy része elnyelődik a légkör gázaiban (H2O, CO2, CH4, N2O) – üvegházhatás (fenti ábrán: B, C, D) => Föld átlaghőmérséklete 44°C-kal magasabb (-30°C  +14°C) és az évi hőingás 150°C-kal mérséklődik.\n3. A növény számára hasznosítható sugárzáskomponensek:\nA pigmentek a fotoszintézisben a fény megkötését és átalakítását végzik. A zöld színanyagok (klorofillok) minden sejtben előfordulnak, a zöld fényen kívül minden komponenst elnyelnek. A színes pigmenteknek (karotinok, xantofillok, fikobilinek stb.) egyedi elnyelési spektrumuk van (abszorpciós mintázat).\nAbszorpciós spektrum: tiszta oldószerben mért, egyedi fényabszorpciós görbe. A pigmentek abszorpciós spektrumát módosítja az aktuális pigmentösszetétel és más molekulákhoz (fehérjék) való kapcsolódás az in vivo szervezetben.\nA fotoszintézis intenzitásának fényfüggését a fényválasz görbék (vagy fény-fotoszintézis görbék) írják le. A 2 tényező kapcsolata hiperbolikus görbével írható le.\nSötétlégzés: minden időszakban működik (folyamatos háttér CO2 termelés, negatív előjel).\nFénykompenzációs pont: az a fénymennyiség, ahol a nettó fotoszintézis nulla (fotoszintézis=légzés).\nKvantumhasznosítás: az időegység alatt fixált CO2 mennyisége, az egyenes szakasz meredeksége.\nAlacsony megvilágításnál fényfüggő szakasz (lineáris szakasz) – fotokémiai reakciók limitálnak.\nMagas megvilágításnál fényfüggetlen szakasz (nemlineáris szakasz) – egyéb tényező (pl. CO2) limitál.\nGörbültségi faktor: a két szakasz átváltási pontjának lefutását jellemzi.\nFénytelítettségi érték: az a legkisebb fényérték, ahol a maximális vagy ahhoz közeli asszimiláció már kialakul.\nPl.: Egy fajon/növényen belül különböző módon adaptált levelek: fény- és árnyéklevél\nFénylevél (A): magasabb fénykompen-zációs pont, magasabb telítési érték, hosszabb és laposabb fénylimitált szakasz, Ф rosszabb.\nÁrnyéklevél (B): alacsonyabb fénykom-penzációs pont, alacsonyabb telítési érték, rövidebb és meredekebb fénylimitált szakasz, Ф jobb.\nA kétféle levél görbéje egymáshoz képest „eltolódott”. A fény- és árnyéklevél fenotípusos adaptáció eredménye.\nA fény a növények számára energia-jellegű mennyiség és részecskék (fotonok) árama. A nagyobb energiájú fotonok a pigmentek károsodását okozhatják, az energiafelmalmozás veszélyes! A fotoszintetikus apparátus fénykárosodását a „klorofillvédő” folyamatok akadályozzák meg – energiaszétosztás a V+A+Z ciklusban (Violaxantin → Anteraxantin → Zeaxantin). A beérkező energiát ez a 3 adja át sorban egymásnak. Mindhárom más-más hullámhosszú fényt tud megkötni.\nA fénykörnyezet hatása:\nÖrökzöld növényfaj (kis télizöld) VAZ poolja napfény- (sun) és árnyékadaptált (shade) levelekben\nA hőmérséklet hatása:\nÖrökzöld fenyőfaj (duglaszfenyő) tűlevelének VAZ poolja alacsony hőmérsékletű téli (winter) és magas hőmérsékletű nyári (summer) időszakban\nA nitrogén-hozzáférhetőség hatása:\nLágyszárú növényfaj (spenót) VAZ poolja alacsony (low) és magas (high) talaj-nitrogén ellátottság mellett\nA napfény, a hideg és az alacsony N-tartalom hasonló hatású a VAZ pool alakulására.\nIII. A víz\n1. Miért fontos a víz?\nélettér (vízi növények);\nanyagcsere közeg és partner (transpiráció);\noldószer (hidratáció) és szállító közeg (hidrolízis, kondenzáció);\nnagy hőkapacitás → hőszabályozó (pufferoló) szerep;\nösszenyomhatatlan → víztelítettség;\nhatárfelületeken mozgékony (turgornyomás);\nökofiziológiai szempontból egyaránt fontos a talaj (humiditás), a növény; (vízpotenciál) és a levegő (relatív páratartalom) nedvességállapota (egységes rendszer);\nfizikai és biológiai rendszerek együttesen mozgatják a vizet (evapotranspiráció);\náltalában a hővel együttesen (szinergizmusban) ható környezeti tényező;\nmozgását a növényben (szívóerő, adhéziós erő, gyökérnyomás), irányát és nagyságát a vízpotenciál határozza meg.\n2. Vízforgalmi paraméterek: sebesség jellegű mennyiségek\nVízpotenciál (Ψ): A víz mozgását a növényben (szívóerő, adhéziós erő, gyökérnyomás), irányát és nagyságát a vízpotenciál határozza meg. Értéke napszakos ingást mutat. (Mindig negatív: -Ψ, áramlás a negatívabb helyek felé). Mértékegység: MPa\nTranszspiráció/párologtatás: A víz elpárologtatása a gázcserenyílásokon keresztül, amikor azok nyitva vannak. A folyamat nagy mennyiségű vizet és ásványi anyagot halmoz fel a növény felső részében, ezek a párologtatás közben akár dehidratációt is okozhatnak. Mértékegység: mmol m-2 s-1\nSztómakonduktancia: A gázcserenyílások zárósejtjeinek távolsága alapvetően meghatározza a növényi vízleadás sebességét és hogy a CO2 milyen intenzitással tud átjutni a sztómákon. Mértékegység: mmol m-2 s-1\nA növényi sejtek vízfelvétele mindig passzív folyamat (vízpotenciál értékeknek megfelelően). Vízleadás a gázcserenyílásokon (sztóma) keresztül történik. → A növények vízforgalma és gázcseréje egymástól elválaszthatatlan.\n3. Vízmozgás a talaj és a növény között:\nA talajvíz potenciálja negatív. Minél távolabb vagyunk a növény gyökerétől, annál kevésbé negatív érték. A növényi vízfelvétel a talajból megváltoztatja a talajoldat vízpotenciálját is.\n← Eltérő nedvességtartalmú, különböző talajtípusokban mért vízpotenciál-értékek szójagyökér vízfelvételét követően a gyökértől különböző távolságokra.Hervadási % érték = vízutánpótlás hiányában aΨ talajoldat = Ψ gyökérsejtA hervadási érték a különböző funkciós csoportokban és talajtípusokban igen eltérő lehet. ← Eltérő nedvességtartalmú, különböző talajtípusokban mért vízpotenciál-értékek szójagyökér vízfelvételét követően a gyökértől különböző távolságokra.Hervadási % érték = vízutánpótlás hiányában aΨ talajoldat = Ψ gyökérsejtA hervadási érték a különböző funkciós csoportokban és talajtípusokban igen eltérő lehet.\n← Eltérő nedvességtartalmú, különböző talajtípusokban mért vízpotenciál-értékek szójagyökér vízfelvételét követően a gyökértől különböző távolságokra.\nHervadási % érték = vízutánpótlás hiányában aΨ talajoldat = Ψ gyökérsejt\nA hervadási érték a különböző funkciós csoportokban és talajtípusokban igen eltérő lehet.\n← Eltérő nedvességtartalmú, különböző talajtípusokban mért vízpotenciál-értékek szójagyökér vízfelvételét követően a gyökértől különböző távolságokra.\nHervadási % érték = vízutánpótlás hiányában aΨ talajoldat = Ψ gyökérsejt\nA hervadási érték a különböző funkciós csoportokban és talajtípusokban igen eltérő lehet.\n4. Vízmozgás a növényben:\nVízszállító elemek (tracheida, trachea) gyors vízmozgást idéznek elő. A gyökérnyomás alulról „nyomja”, a transzspiráció felülről „szívja”. Eredőjük önmagában nem elégséges pl. a magas fák vízáramlásának fenntartására. Ehhez járul hozzá a vízmolekulák között fellépő kohéziós erő, ez a szállítóelemekben „negatív nyomás”-t alakít ki.\nKohéziós teória:\n5. Vízmozgás a növény és a levegő között (transzspiráció)\nA víz struktúrával rendelkező felületről párolog el, kiszakad a H-hídkötés rendszeréből. Két folyamat létezik: kutikuláris és sztómás transzspiráció. Utóbbi külső környezeti (pl. páratartalom) és belső szerkezeti (pl. sejtnedv tartalma, koncentrációja) tényezőktől függ.\nA vízáramlás a növényben egy láncszerűen összekapcsolódó folyamat, sebességét a legkisebb sebességű részfolyamat határozza meg.\n6. Vízhiány kialakulása a növényben és a talajban:\nA növény a nedves talajt a transzspirációval fokozatosan kiszárítja. A növény vizet veszít, a sejtek vízpotenciálja egyre negatívabb lesz. Különösen igaz ez a levelekre, amelyek a nappali periódusok végére elérik „negatív csúcsukat”. Éjszaka a transzspirációs vízvesztés elmaradása miatt visszaállhat az egyensúly. Az egyensúly az idő előre haladtával egyre nagyobb negatív értéken áll be, a különbség a talaj és a növényi rész (gyökér, levél) vízpotenciálja között is egyre nő. A hervadási % elérésekor (-15 bar) a növény véglegesen elveszíti turgorát. A lankadó levélben emelkedő abszcizinsav (stresszhormon) szintje nappal zárja a sztómákat.\nA görbék aktuális lefutása talajtípustól, oldatkoncentrációktól, növényfajtól függ.\nA transzspiráció következtében fellépő lokális vízhiány kiküszöbölésére a növény a víz újraelosztását valósítja meg az egyes szervek között (pl. termésekből vizet von el).\nA transzspirációt befolyásoló környezeti tényezők: napszak (nappal erősebb), fény (kék fény effektív), légmozgás (forró száraz szelek veszélyesek), növényállomány mikroklímája (alacsony hőmérséklet - magas páratartalom)\nSzukkulencia-index = víztárolási kapacitás mértéke\nszukkulencia-index\n=\ntelítési víztartalom\nfelszíni terület\n7. Szárazsághoz való adaptáció szempontjából 3 stratégia:\nKiszáradás-elkerülők: pl. tamariska\nMagvaik nagyobb mennyiségű csapadék lehullása esetén csíráznak,\nCsírázás után gyorsan növekednek.\n2 típus:\nSzárazság-lombhullatók: kiszáradáskor levélhullás, majd táli dormancia.\nFreatofiták: extrém mélységű gyökérrendszer a vízfelvételhez, speciális élőhelyválasztás (felszíni és talajvíz elérhetősége).\nKiszáradástűrők: pl. olajfa\nAz év egy bizonyos szakaszában erős szárazságs-tressznek vannak kitéve.\nKettős gyökérrendszer → mély, függőleges karógyökér + sekély, vízszintes táplálógyökér.\n„Feléledő növények”: pl. Jerikó rózsája\nFiziológiai aktivitásukat a víztartalom csökkenésével el is veszíthetik.\nPoikilohidrikus mohák, harasztok, zárvatermők tartoznak ide.\nÁltalában a szárazság alatt is működik pl. a transzkripció és a légzés, de nem működik pl. a transzlációs és az asszimiláció.\nABA, metabolikus cukrok, LEA proteinek halmozósnak fel a szárazság alatt (ozmoprotektív funkció).\n8. Vízgazdálkodási típusok: homoiohidrikus és poikilohidrikus növények\na) Poikilohidrikus növények: sejtjeik kiszáradás után is képesek víztartalmukat visszanyerni és normálisan működni, így vegetatív állapotban nagymértékben tolerálják a kiszáradást.\nharasztok, mohák, zuzmók között (pl. Jerikó rózsája);\naz ősi növények alapvető vízgazdálkodási típusa volt;\n„ára” az alacsony anyagcsere és növekedési ráta;\nciklikus „kiszáradás” és „újranedvesedés”;\nkétféle túlélési stratégia:\nsejtek integritásának megőrzése,\nsérülések helyreállítása;\nfokozatos vízvesztők (legalább 12 órás ciklusok) – sejtvédelmi mechanizmusok;\ngyors vízvesztők (1-2 órás ciklusok) – helyreállító mechanizmusok;\nspeciális sejtalkotó a poikiloklorofill (kiszáradáskor lebomlik, újranedvesedéskor visszaépül).\nb.) Homoiohidrikus növények: biokémiai és anatómiai változások, újítások révén, viszonylag stabilan hidratált belső környezetet tartanak fenn („állandó vízállapotú növények”).\n→ Vízgazdálkodás – 4 részfolyamat: vízfelvétel, vízszállítás, víztárolás, vízleadás\nVízfelvétel: általános vízfelvevő szerv (gyökér) kialakulása, speciális vízfelvevő szervek megjelenése (pl. páfrányok ligulája, zárvatermők szívópikkelyei)\nVízszállítás: szállításra specializálódott sejtek (tracheida) és rendszerek (trachea, szállítónyalábok, fatest) kialakulása, sztéletípusok (proto~, poli~, eu~, aktino~, szifono~)\nVíztárolás: vízveszteség csökkentése: epidermisz és rizodermisz, felszíneken filmszerű bevonatok (pl. kutikula, viasz), vízmegkötő képesség fokozása nagymolekulájú vegyületekkel (pl. nyálka)\nVízleadás: legtöbb a gázcserenyílásokon keresztül (sztómás transzspiráció), mértékét ellenállások (rezisztenciák) szabályozzák, továbbá kutikuláris és peridermális transpiráció\nEvolúciós lépések: megtermékenyítés víztől való függetlenedése, pollen és mag kialakulása (polifiletikusan), nyitvatermők és speciális zárvatermő csoportok (pl. pázsitfüvek) megjelenése.\n→ Szárazságtűrési típusok:\nVízinövények (hidatofitonok) » gyökerező, lebegő, úszó életmód, víz-forgalom teljes testfelületen, sztómák hiánya, minimális szárazságtűrés (tündérrózsa, békalencse, békaszőlő)\nMocsári növények (helofitonok) » gyökerező növények, asszimiláló felület a víz fölött, intenzív transzspiráció, közepes sztómaellátottság, közepes szárazság-tűrés (nád, gyékények)\nKedvező vízellátású növények (higrofitonok) » nedves talajon él, erős transzspiráció, sűrű sztómaellátottság, jó szárazságtűrés (erdei káka, mocsári gólyahír)\nKözepes vízellátású növények (mezofitonok) » üde talajon él, transzspiráció és víz-felvétel, sztómaellátottság és szárazságtűrés közepes (franciaperje, kapotnyak)\nSzárazságtűrő növények (xerofitonok) » gyakran kiszáradó, szélsőséges termőhelyeken, transpiráció és vízfelvétel alacsony, párologtatás-csökkentő szervek (pl. süllyesztett sztóma, kutikula, szőrözöttség), számos altípus létezik (efemer, geofiton, szukkulens, szklerofil, malakofil)\nIV. Hőmérséklet\n1. A makro- és mikroklíma hatásai:\nA hőmérséklet és a csapadék éves mennyisége együttesen (makroklíma) meghatározzák a Föld legnagyobb növényzeti egységeit. A növényzet adaptálódott a lokális makroklímához és a zonális talaj-főtípusokhoz → klímazonális növényzeti övek (jellegzetes növekedési- és életforma típusokkal meghatározható nagy vegetációs egységek).\nA horizontális és vertikális vegetációs övek diagramszerű ábrázolása, valamint néhány fafaj északi elterjedési határa Finnországban.\nA vegetáció klíma-adaptációja pontosabb → zonális növényzeten belüli egységek, főleg a klímatípusokhoz (a hőmérséklet és csapadék mennyiségi és időbeli eloszlásának együttes figyelembevételével határozhatók meg) adaptálódtak → ezek a klímazonális növénytársulások jellemző fajösszetétellel és struktúrával.\nA klímazonális növénytársulásokat közel sík területen, mállott kőzeteken találjuk meg. Adott klímatípushoz több növénytársulás is tartozhat, az alapkőzet, a talaj, vízellátás módosíthatja a klímazonális növényzetet (edafikus növényzet). A klímazonális társulás kialakulása időfüggő (talaj, biológiai kölcsönhatások) szukcesszió eredménye, ezért vannak a pioníroktól kezdve több stádiumban is átmeneti növénytársulások.\nA vegetáció legfelső szintjének fajai adják az aktív sugárzásfelfogó felszínt, ezért (makro)mezoklíma adaptáltak, elterjedésük gyakran egybeesik valamilyen klimatikus izotermával.\nA magashegységekben a síksági klímazonális növényzeti övekhez hasonló, de keskenyebb, élesebb határú klímaadaptált magassági növényzeti övek (régiók) alakulnak ki. A magassággal a légnyomás csökken, nő az aeroszol, nő az UV és a direkt sugárzás, nő a hóborítás hossza és a hótakaró vastagsága, gyakoribb a diszturbáció.\nA növényzet textúrája, az architektúrája, mintázata döntően befolyásolja, módosítja a mezoklímát → vegetáció-talaj-levegő kölcsönhatás eredményeképp a vegetáció belsejében sajátos mikroklíma alakul ki, a növényzetfüggő állományklíma. Az állományklímában tompulnak a mezoklíma szélsőségei (kisebb hőingás, sajátos hőprofil, egyenletesebb csapadékeloszlás, magasabb páratartalom).\nA kiegyenlítettebb klimatikus feltételek kedvezőbbek a növények számára → olyan fajok is megélhetnek, amelyek a mezoklíma szélsőségeinek kitetten nem → a társulások belsejében élő, specialista fajok érzékenyebbek a klímaváltozásra. A klímaadaptáció finoman hangolt, a vegetáció struktúrája, fajösszetétele, az állományalkotó fajok lombozata stb. dinamikusan változó, adaptálódó rendszert alkot.\nTőrózsás-/párnanövények és a mikroklíma kapcsolata:\na) Hegyvidéki növények levélhőmérséklete (talajhoz simuló és felálló formák). A levél hőmérséklete mindig magasabb, mint a levegőé. A talajhoz simuló formák magasabb hőmérsékletűek mint a felálló egyedek, ez magasabb léghőmérséklet mellett még kifejezettebb.\nb) Geum glaciale szerveinek hőmérsékleti eloszlása. Árnyékban a föld felé haladva egyre alacsonyabb hőmérsékletek alakulnak ki. Napfényben a földhöz közeli szervek melegednek fel leginkább.\nc) Arktikus párnanövény hőmérsékleti izotermái egy nyári napon, reggeli, déli és délutáni órákban. Aszimmetrikus hőeloszlás a nap állásának és az égtáji kitettségnek megfelelően.\nA talaj, mint mikroklimatikus tényező :\nHőmérsékleti profilok a talajban, különböző mélységekben (1-100 cm), egy nyári napon, 4 időpontban. Reggel és délután az alsó, napközben a felső talajrétegek a legmelegebbek (sekélyen és mélyen gyökerező növények!).\nAz éves hőmérsékleti fluktuáció (hőingás) mértéke magasabb talajrétegekben nagyobb, a hőmérséklet évszakhoz kötöttsége a mélység növekedésével csökken.\nA szőrözöttség hatása a hőmérsékletre (tőlevélrózsás növény 4500 m-en):\nA szőrös és kopasz levelekre eltérő éjszakai és nappali hőmérséklet jellemző. Éjszaka a kopasz levelek melegebbek a csökkent hőleadás miatt, nappal a szőrös levelek melegebbek a határréteg hővezetésének növekedése miatt.\n2. A fotoszintézis hőmérsékletfüggése\nA hőmérsékletnek a növekedésre gyakorolt hatása optimumgörbével fejezhető ki.A különböző fajok más hőmérsékelt-tartományban aktívak (1. zuzmó, 2. sás, 3. csajkavirág, 4. tőzike, 5. vörösfenyő, 6. citrom), ez kapcsolatban van a (mikro)klímával, ahol élnek.\nAz optimális hőmérséklet a parciális folyamatok (fotoszintézis, légzés, stb.) esetében eltérő, és nem azonos az egész növény fejlődésének optimális hőmérsékletével, amely a növények többsége esetében 10-20 oC között található. A minimum és a maximum az a hőmérséklet, amelyen a növekedés megáll, de a növény még nem pusztul el.\n3. Energia-egyensúly:\nHőmérséklet komponensei: léghőmérséklet (31,3 oC), talajhőmérséklet (28,4 oC), növény hőmérséklete (36-51 oC) – legnagyobb!\nEnergia-egyensúly komponensei:\nnövelő: globális sugárzás*, légköri visszasugárzás, talaj kisugárzása\ncsökkentő: reflexió, hőkisugárzás* (alsó + felső), konvekció, transzmisszió\nA földdel érintkező növényfelszíneken extrém magas hőmérséklet → csökkent konvekció és hőkisugárzás. A hőleadást a határréteg hővezetése szabja meg.\nA levélcsúcsok érintkeznek a talajjal → magasabb (51 oC) hőmérsékletűek → csökkent hőközlés és hosszú hullámhosszú sugárzás (hősugárzás) a levél alsó felén. A felszín fölé emelkedő levélrészek árnyékában alacsonyabb a hőmérséklet → növekvő hőközlés és hosszú hullámhosszú sugárzást eredményez.\n4. Növekedési dinamikák:\nFenológiai események és a tengerszint feletti magasság:\n6 fás szárú növényfaj fenofázisainak megjelenése (day number) a tengerszint feletti magasság függvényében (1. Tussilago farfara virágos, 2. Prunus avium virágos, 3. Syringa vulgaris virágos, 4. Prunus avium terméses, 5. Sambucus nigra terméses, 6. Fagus sylvatica sárguló leveles). A fenofázisok többségének időbeli megjelenése egyértelműen hőmérsékletfüggő, kivéve a lombszíneződést. Kisebb különbségek a fotoperiódizmusra vezethetők vissza.\nA téli nyugalom (dormancia) szabályozó faktorai fás szárúakban:\nA téli nyugalom fázisát fás szárúaknál az alacsony környezeti hőmérséklet határozza meg egyértelműen. A belső szabályozó faktorok hatása ebben a periódusban kevésbé erős.\nGyümölcsfák virágának szezonális fejlődése Közép-Európában:\n1. Levél és axilláris hajtás primordiumának kialakulása.\n2. Vegetatív rügyek megjelenése.\n3. A virág differenciálódásának kezdete.\n4. Porzó-primordiumok megjelenése.\n5. Termőtáj primordiumának megjelenése.\n6-7-8. Téli nyugalom fázisai.\n9. Virág szerveinek teljes kifejlődése.\n10. Nyílásra kész virágrügy.\nAz alacsony hőmérséklet fontos hatása 1-2 és 5-9 között!\n(fekete = vegetatív fázis, szürke = generatív fázis)\nHajtás és gyökér megnyúlásos növekedésének éves szezonális ritmusa és típusai:\nA gyökérnövekedés hosszabb ideig tart, mint a hajtásoké, a nyári szárazság alatt kifejezettebb (minden fajnál). (szürke rész = hajtásnövekedés, fekete rész = gyökérnövekedés)\nQuercus típus: hajtásnöve-kedés rövid időszakokban, nyár közepén leáll, a gyökerek növekedése folyamatos, a nyári szárazság alatt kifejezettebb, az őszi időszakban is tart.\nPopulus típus: a hajtások növekedése nyár végéig folyamatos, a gyökerek növeke-dése is ezt a ritmust követi, de kevésbé intenzív, a levelek színeződését követően is tart.\nHajtás és kambium szezonális növekedése a léghőmérséklet és a csapadék függvényében:\nAz új hajtások megjelenése a hőmérséklet napi ingásának magas értékei mellett figyelhető meg (kakaó, Costa Rica, 9 fok felett). A kambiális növekedés és a virágzás az átlaghőmérséklet magas értékei mellett következik be intenzívebben. A csapadéknak itt nincs közvetlen szabályozó hatása.\nV. Tápanyagok\n1. A tápanyagokról általában:\nAbszorpció a talajoldatból:\nH+, HCO3- leadás\ntápanyag felvétel (NO3- > SO42- > Mg2+ > Ca2+ > K+ > PO43-) talajbeli koncentrációik függvényében\nTápanyag-források: talajoldat (→ közvetlen felvétel), ásványok, humuszanyagok, ioncserélők (természetes → talajkolloid, mesterséges)\nSzerves komponensek kötői: mikroorganizmusok (felületen ionok megkötése)\nTápanyagok mobilizálása a gyökér közreműködésével: szerves savak felhasználásával kelátképzés történik, közben CO2 szabadul fel (nem a gyökér termeli!)\nA talajok és a növényi részek elemtartalma gyakran eltérő. Az elemek mennyiségi sorrendje a talajokban más mint a növényekben (növényekben N > K > Ca > Si > P > Mg > S). Talajokban lényegesen nagyobb koncentrációban található meg a Si, Al, Fe, Na, míg lényegesen kisebb koncentrációban a K, N, P, S, Cl. Talajban és növényben közel azonos koncentrációban van jelen a Ca, Mg, F, Zn.\nA növények igénye a valódi tartalommal azonos a Fe, Ca, K, Mg, P, S esetében. Nehézfémek igen kis mennyiségben szükségesek (Zn, Ni, Cu, Co, Mo) a növények számára.\n2. A növényi hamu:\nA növényi hamu nem más, mint az égetés után visszamaradt szervetlen anyagok (makroelemek + mikroelemek + nyomelemek) összessége. Az össz-hamutartalom a száraz anyag százalékában van megadva (l. táblázat). A magas hamutartalom magas szervesanyag-tartalomra utal.\nMakroelemek = N, K, Ca (×10g/kg)\nMikroelemek = Mg, P, S (g/kg)\nNyomelemek = Fe, Na (mg/kg)\nA hamutartalom jellemző lehet az egyes növényfajokra, növénycsaládokra, növényi szervekre (levél/szár) és fejlődési stádiumokra (fenofázis). Pl.:\nFás szárúak levele: N > K\nLágyszárúak levele: K > N\nLegtöbb növényben: P > S (Brassica fajokban S > P)\nSzegfű-, kankalin-, burgonyafélék: Ca/K < 1\nVarjúháj- és káposztafélék: Ca/K > 1\nA levelek hamutartalma a levél életkorával általában növekszik.\nA környezet hamutartalom-formáló hatását nagyon jól szemlélteti a halofita és mikotróf növények hamuanalízisének eredménye. A halofitákban (Na felhalmozás) a nagy hamutartalom extrém eseteit találjuk, ahol a szárazanyag 50%-a hamu. Ezzel szemben a savanyú talajon élő mikotróf növények ásványi anyagokban igen szegények (5% alatt). A sások, füvek, pálmák, zsurlók Si felhalmozók. A termésekben K, P és S felhalmozás, a trópusi fák törzsében Si és Al felhalmozás történik.\nEgy növény tényleges hamutartalmát a termőhely és a növény specifikus ásványi anyag kiválogató képessége együttesen szabja meg. A hamualkotók közül relatíve kevés tekinthető nélkülözhetetlennek, legnagyobb részük ballasztanyag.\nA tápanyagok mennyisége mellett a minősége is fontos adat.\n3. A tápanyagok mennyisége és a hozamnövekedés:\nA növényi tápanyag-tartalom hatása a hozamra (hiány, optimum, túlkínálat, toxikus mennyiség) →\nÁltalánosan érvényes szabály, hogy növekvő mennyiségű tápanyag adagolása csökkenő mértékben emeli a terméshozamot. Vagyis más szavakkal: egy terméshozam-növelő faktornak annál kisebb a hatása, minél jobban megközelíti a ténylegesen elért termésmennyiség a maximálisan elérhető mennyiséget.\nHa Mx > Mmin de Y1 < Y2 → akkumuláció-effektus, plusz tápanyag adására eleinte hozamcsökkenés (az akkumuláció miatt - hiány).\nHa Mx > Mmin és Y2 < Y3 → a normál növekedés fázisa (optimum).\nA tápanyag-túlkínálat nem okoz hozamnövekedést (túlkínálat).\nA toxikus mennyiségnél a hozam csökken.\nAz „éhező” növények a tápanyag fokozott hozzáadásra terméshozam-emeléssel válaszolnak. A tűrhetően ellátott növényeknél ugyanaz a tápanyagmennyiség már nem ad akkora termésemelkedést, mint az előző esetben, bár itt is jelentkezik emelkedés. A jól táplált növények még kisebb mértékben reagálnak. Amennyiben pedig egy tényező (pl. N) az optimális fokot elérte, további adagolása nem hogy fokozná a termés mennyiségét, hanem egyenesen csökkenti.\nEzt a jelenséget az optimum tételének nevezzük. Eszerint valamely faktornak csak az optimumpontig való emelése fokozza a növekedést, további növelése már a termés-eredmény csökkenéséhez vezet, éspedig sokkal gyorsabban, mint amilyen mértékben az optimumpontig emelkedett.\nTermészetes körülmények közt, ahol a tápanyag-ellátottság szegényes, a növényeknek a következő tulajdonságaik alakulnak ki:\nA növekedés sebességének igazodása a tápanyag-ellátottsághoz,\nA tápanyagok hatékony „megszerzése”,\nHatékony belső gazdálkodás, mely a növényen belüli újrafelhasználódással és/vagy a funkcionális helyeken az alacsonyabb tápelemigény eredményeként jöhet létre.\n4. Nitrogén metabolizmus:\nA nitrogén asszimiláció meghatározó lépése a NO3– átalakítása a nitrát-reduktáz (NRA) enzimmel. Az enzim aktivitása jó indikátora a hely-függő nitrogén-felhasználásnak (egyenes arányosság a nitrogéntartalommal). Kísérő folyamat a NO2– redukciója NH4+ ionná (nitrit-reduktázzal).\nMagas enzimaktivitások mérhetők a ruderális és nyílt termőhelyek növényeinek föld feletti és reproduktív szerveiben. Alacsony enzimaktivitások mérhetők a fás szárúaknál és a tápanyagszegény talajok növényeinél. Az NRA enzim aktivitása az alábbi táblázatban látható.\nAtmoszférikus N-fixáció (diazotrofia, mikorrhiza):\nSzabadon élő diazotrof mikroorganizmusok (maguk kötik meg a N-t): baktériumok (Clostridium, Azotobacter), cianobaktériumok (Oscillatoria, Anabaena, Nostoc), aktinomycéták v. sugárgombák (Mastigocladus).\nSzimbionta mikorrhizás mikroorganizmusok (gyökérgümőkben): baktériumok (Rhizobium, Bradyrhizobium), aktinomycéták v. sugárgombák (Frankia). Elsősorban a pillangósvirágúak (Fabaceae) családjára jellemző.\nA nitrogén-fixáló szimbiontákkal (gyökérgümők) és kékbaktériumokkal történő nitrogén-fixálás (nitrogenáz-aktivitás) hőmérséklet-függése:\nAstragalus alpinus (Norvégia), 2. Medicago sativa (üvegház, 16 oC), 3. Alnus glutinosa (Anglia), 4. Casuarina equisetifolia (Malajzia), 5. Anabaena cylindrica (Cambridge).\nSzimbionta partnerektől függő hőmérsékleti aktivitás.\nSzabad cianobaktérium aktivitása magas hőmérsékleten.\nA gyorsan növő fajok a nitrogént a levelekbe akkumulálják, a lassan növekedő fajok a hajtásokban és a gyökerekben is relatíve sok nitrogént tárolnak.\n5. Tápanyag-hasznosítás, tápanyagveszteség:\nA tápanyagok felvétele és hasznosítása a Liebig-féle minimumtörvény szerint történik → a legkisebb koncentrációban jelen lévő tápelem korlátoz. A tápanyagok hozzáférhetőségét a talaj kémhatása is erősen befolyásolja, de a foszfor esetében pl. a beépülést és felvételt a talaj nedvességtartalma is befolyásolja, ezzel szemben a nitrogén felvételére a fénykörnyezet van hatással. Nehézfémek felvételére adott növényi válaszok: felhalmozás (hiperakkumuláció), érzékenység (uncontrolled uptake) és rezisztencia (exclusion). Az alumínium a hajtásban halmozódik fel és segíti a foszfor felvételét. A növekvő Al-tartalom a hajtásban és a gyökérben nagy mértékben csökkenti a Ca- és Mg-tartalmat. A P növekedése kisebb mértékben és nem egy irányban hat a két ion felvételére.\nA tápanyagveszteség oka lehet: kimosódás (esővel), öregedés (szeneszcencia), visszaszívás (reszorpció).\nA kimosódásra a kémhatásnak (eső kémhatása) van a legnagyobb szerepe. Alacsony pH mellett a Ca és Mg kimosódása erős, a K azonban kevésbé távozik el. Magas pH esetén a tőlevelek az esőből abszorbeálják a Ca-ot, ezért ez az elem kevésbé mosódik ki.\nA lombhullató erdők a nitrogént és a magnéziumot jobban elveszítik, az örökzöld erdőkben a kálium és a kálcium kimosódása intenzívebb. A foszforveszteség szempontjából hasonlóak a lombhullató és tűlevelű erdők.\nA vegetációs időszak elején rendelkezésre álló tápanyagkészlet az idő előre haladtával drasztikusan csökken, különösen a nitrogén mennyisége. Ennek oka a természetes fogyás és az utánpótlás korlátozottsága egyaránt lehet.\nVI. A levegő\n1. Emelt szén-dioxid klímára adott növényi válaszok:\nA légkör CO2 (és más üvegházhatású gázok) koncentrációjafőként az emberi tevékenységek következtében nő. A CO2 növekedése földi léptékű probléma kialakulását okozza. Az elmúlt 200 évben: 280 ppm→ 360 ppm CO2 (természetben, évi 1,8 ppm emelkedés) → földi léptékű globális klímaváltozás.\nA CO2 emelkedésének hatása közvetlen és számos növényi jelenséget érint (egyfajta stresszhelyzetként is értelmezhető):\nkémiai összetétel → fiziológiai folyamatok → produkció → fitness részfolyamatok: tolerancia, reprodukció, térbeli eloszlás, abundancia, kompozíció, diverzitás, természetes dinamikák, vegetációstruktúra.\nA jelenlegi CO2 koncentráció a növényzet számára a fotoszintézis folyamatát limitáló tényező. Ezért az emelkedése a növényi produkcióra (asszimiláció) pozitív hatású lehet:\nC3 növények – 40-44% növekedés (2×CO2-re adott válasz, 660 ppm)\nC4 növények – 22-33% növekedés  (lényegesen kisebb a C3-asokénál)\nminden növény földi léptékben – 7,5-9% asszimiláció-növekedés\nErdei és gyepi ökoszisztémák jelentős produkciós tényezők a Földön. A CO2 önmagában produkció-fokozó tényező lehet, más környezeti tényezőkkel interakcióban segíthet a stresszfaktorok leküzdésében (pl. szárazságstressz).\nAz eddigi kísérletek alapján az emelkedett CO2 hatásai:\nrövid távon a direkt hatás (fotoszintézis serkentése)\nhosszú távon az indirekt hatásokat támogatja (eltérő forráshasznosítás).\nA magas légköri CO2-szint melletti, kezdeti igen intenzív fotoszintézis-aktivitás az emelt CO2-hoz alkalmazkodott növényekben csökkenhet (főként C3-asok esetében) → romlik a C/N arány, egyfajta N-hiánystressz alakul ki. Mindezek miatt a tartósan emelt CO2-szint növényi szárazanyag-produkcióra gyakorolt pozitív hatása körül még meglehetősen nagy a bizonytalanság.\nKísérletek és vizsgálatok mezőgazdasági kultúrákban, üvegházakban és a természetben (vegetáció). Modellnövények: rizs, burgonya, pillangósok (pl. szója, here), gyapot, kukorica, természetes fűfajok, szőlő, citrusfélék, nyár fajok és klónok.\nVáltozó CO2 koncentrációk (160-900 ppm) mellett nevelt növények a rövid távú magas CO2 hatására gyors asszimiláció-növekedéssel, ezt követően pedig „hozzászokással” válaszolnak (fotoszintetikus akklimatizáció - ábra).\nA szárazságstressz és az emelt CO2 együttes hatása az asszimilációra:\nA normál CO2 mellett (350 ppm) nevelt növények vízzel elárasztott helyzetben (○) magasabb asszimilációs rátát adnak mint szárazságstresszelt esetben (●).\nEmelt CO2 hatására a szárazságstressz asszimilációs következményei nem jutnak érvényre, a magas szén-dioxid koncentráció korrigálja a veszteséget.\nFelhasznált irodalom\nSalamon-Albert, É.: Ökofiziológia előadás jegyzet (BSc és MSc)\nMorschhauser, T.: Növényökológia előadás jegyzet (MSc)\nSzalai, I. (1968): Növényélettan. Tankönyvkiadó, Budapest.\nLáng, F. (szerk.) (2007): Növényélettan. A növényi anyagcsere I. ELTE Eötvös Kiadó, Budapest.\nTuba, Z., Szerdahelyi, T., Engloner, A., Nagy, J. (szerk.) (2007): Botanika III. Növényföldrajz – Társulástan – Növényökológia. Nemzeti Tankönyvkiadó, Budapest.",
+  "kepek": [
+    {
+      "sorszam": 1,
+      "fajl": "data/tetelek/images/tetel_30_img_1.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    },
+    {
+      "sorszam": 2,
+      "fajl": "data/tetelek/images/tetel_30_img_2.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    },
+    {
+      "sorszam": 3,
+      "fajl": "data/tetelek/images/tetel_30_img_3.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    },
+    {
+      "sorszam": 4,
+      "fajl": "data/tetelek/images/tetel_30_img_4.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    },
+    {
+      "sorszam": 5,
+      "fajl": "data/tetelek/images/tetel_30_img_5.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    },
+    {
+      "sorszam": 6,
+      "fajl": "data/tetelek/images/tetel_30_img_6.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    },
+    {
+      "sorszam": 7,
+      "fajl": "data/tetelek/images/tetel_30_img_7.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    },
+    {
+      "sorszam": 8,
+      "fajl": "data/tetelek/images/tetel_30_img_8.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    },
+    {
+      "sorszam": 9,
+      "fajl": "data/tetelek/images/tetel_30_img_9.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    },
+    {
+      "sorszam": 10,
+      "fajl": "data/tetelek/images/tetel_30_img_10.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    },
+    {
+      "sorszam": 11,
+      "fajl": "data/tetelek/images/tetel_30_img_11.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    },
+    {
+      "sorszam": 12,
+      "fajl": "data/tetelek/images/tetel_30_img_12.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    },
+    {
+      "sorszam": 13,
+      "fajl": "data/tetelek/images/tetel_30_img_13.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    },
+    {
+      "sorszam": 14,
+      "fajl": "data/tetelek/images/tetel_30_img_14.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    },
+    {
+      "sorszam": 15,
+      "fajl": "data/tetelek/images/tetel_30_img_15.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    },
+    {
+      "sorszam": 16,
+      "fajl": "data/tetelek/images/tetel_30_img_16.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    },
+    {
+      "sorszam": 17,
+      "fajl": "data/tetelek/images/tetel_30_img_17.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    },
+    {
+      "sorszam": 18,
+      "fajl": "data/tetelek/images/tetel_30_img_18.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    },
+    {
+      "sorszam": 19,
+      "fajl": "data/tetelek/images/tetel_30_img_19.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    },
+    {
+      "sorszam": 20,
+      "fajl": "data/tetelek/images/tetel_30_img_20.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    },
+    {
+      "sorszam": 21,
+      "fajl": "data/tetelek/images/tetel_30_img_21.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    },
+    {
+      "sorszam": 22,
+      "fajl": "data/tetelek/images/tetel_30_img_22.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    },
+    {
+      "sorszam": 23,
+      "fajl": "data/tetelek/images/tetel_30_img_23.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    },
+    {
+      "sorszam": 24,
+      "fajl": "data/tetelek/images/tetel_30_img_24.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    },
+    {
+      "sorszam": 25,
+      "fajl": "data/tetelek/images/tetel_30_img_25.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    },
+    {
+      "sorszam": 26,
+      "fajl": "data/tetelek/images/tetel_30_img_26.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    },
+    {
+      "sorszam": 27,
+      "fajl": "data/tetelek/images/tetel_30_img_27.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    },
+    {
+      "sorszam": 28,
+      "fajl": "data/tetelek/images/tetel_30_img_28.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    },
+    {
+      "sorszam": 29,
+      "fajl": "data/tetelek/images/tetel_30_img_29.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    },
+    {
+      "sorszam": 30,
+      "fajl": "data/tetelek/images/tetel_30_img_30.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    },
+    {
+      "sorszam": 31,
+      "fajl": "data/tetelek/images/tetel_30_img_31.png",
+      "vision_leiras": "",
+      "szovegkornyezet": ""
+    }
+  ],
+  "kulcsfogalmak": [
+    "abiotikus környezeti tényezők",
+    "adaptáció",
+    "akklimatizáció",
+    "fenotípusos plaszticitás",
+    "stresszreakció",
+    "optimum görbe",
+    "fotoszintetikusan aktív radiáció (PAR)",
+    "abszorpciós spektrum",
+    "VAZ-ciklus",
+    "fényválasz görbék",
+    "biotikus faktorok",
+    "szignáltranszdukció",
+    "stresszor",
+    "rezisztenciaminimum",
+    "üvegházhatás"
+  ],
+  "osszefoglalo": "A növények a környezeti hatásokra egyedi (akklimatizáció) és evolúciós szintű (adaptáció) válaszreakciókkal reagálnak, amelyek mértékét a fenotípusos plaszticitás határozza meg. A stresszreakció jellegzetes szakaszokból áll: vészreakció, ellenállás, kimerülés és regeneráció, amelyek során a fiziológiás működés szintje változik, és a folyamat végén egy új standard szint alakul ki. A környezeti jelek érzékelése szignálpercepció útján történik, a válasz pedig génexpresszió és anyagcsere-változás formájában nyilvánul meg. A fény esetében a 400–700 nm közötti tartomány (PAR) a fotoszintézishez hasznosítható, amelyet a pigmentek (klorofillok, karotinok, xantofillok) egyedi abszorpciós spektrumuk alapján nyelnek el. Az abiotikus és biotikus stresszorok (hőmérséklet, víz, fény, tápanyagok, mikroorganizmusok, állatok) komplex kölcsönhatásban befolyásolják a növény működését, amelyet az optimum görbe ír le."
+}
